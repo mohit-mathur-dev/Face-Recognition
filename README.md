@@ -1,6 +1,6 @@
 ## Face-Recognition
 
-#Task-6-LinuxWorld-Face_Recognition
+# Task-6-LinuxWorld-Face_Recognition
 
 ❄️ Create a program that performs some operation upon recognizing a particular face.
 
